@@ -1,0 +1,22 @@
+.login{
+    text-align: center;
+    text-overflow: clip;
+    /* margin: 20px;
+    padding: 50px; */
+    /* background-color: gainsboro; */
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+    padding: 10px;
+}
+.name{
+    color: blueviolet;
+    background-color: antiquewhite;
+
+}
+.name1{
+    color: blue;
+}
+/* login---*/
